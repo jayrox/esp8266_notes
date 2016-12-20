@@ -1,3 +1,5 @@
+# GPIO Pin Mapping
+```
 // Assign Arduino Friendly Names to GPIO pins
     #define D0 16
     #define D1 5
@@ -7,7 +9,7 @@
     #define D5 14
     #define D6 12
     #define D7 13
-
+```
 source: https://github.com/esp8266/Arduino/issues/584#issuecomment-209240241
 
 ----
