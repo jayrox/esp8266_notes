@@ -13,3 +13,8 @@
 source: https://github.com/esp8266/Arduino/issues/584#issuecomment-209240241
 
 ----
+
+# 5v Out
+The VIN pin on the NodeMCU is tied directly to the 5V pin on the incoming USB port.
+
+----
