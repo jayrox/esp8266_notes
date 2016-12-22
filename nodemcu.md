@@ -20,4 +20,4 @@ The VIN pin on the NodeMCU is tied directly to the 5V pin on the incoming USB po
 ----
 
 Arduino IDE
-Baud 57600
+just use the NodeMCU Firmware Flasher
